@@ -89,6 +89,12 @@ header {
 
 .work-list {
 
+    li {
+        list-style: none;
+        float: left;
+        padding: 0 10px;
+        margin-bottom: 30px;
+    }
 }
 
 .media {
@@ -107,7 +113,7 @@ header {
 }
 
 footer {
-    background: $background-color;
+    background: $primary-color;
     color: #fff;
     text-align: center;
     padding-top: 20px;

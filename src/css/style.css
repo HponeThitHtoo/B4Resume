@@ -66,6 +66,12 @@ header {
       font-size: 15px;
       color: #ccc; }
 
+.work-list li {
+  list-style: none;
+  float: left;
+  padding: 0 10px;
+  margin-bottom: 30px; }
+
 .media {
   background: #ededed;
   padding: 10px; }
@@ -79,7 +85,7 @@ header {
   margin-bottom: 1.25rem; }
 
 footer {
-  background: #ededed;
+  background: #3b5a76;
   color: #fff;
   text-align: center;
   padding-top: 20px;
